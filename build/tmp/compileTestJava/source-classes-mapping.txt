@@ -1,0 +1,2 @@
+com/jenkin/jenkin/JenkinApplicationTests.java
+ com.jenkin.jenkin.JenkinApplicationTests
